@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "919039535186",
-    "project_id": "device-streaming-feb63d11",
-    "storage_bucket": "device-streaming-feb63d11.firebasestorage.app"
+    "project_number": "YOUR_PROJECT_NUMBER",
+    "project_id": "YOUR_PROJECT_ID",
+    "storage_bucket": "YOUR_PROJECT_ID.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:919039535186:android:62685b54d6536407d5d78b",
+        "mobilesdk_app_id": "YOUR_APP_ID",
         "android_client_info": {
           "package_name": "com.example.firebase_login"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyC932jQYMZcweYU0Zu84eAM_rCjTE7OvJE"
+          "current_key": "YOUR_API_KEY"
         }
       ],
       "services": {

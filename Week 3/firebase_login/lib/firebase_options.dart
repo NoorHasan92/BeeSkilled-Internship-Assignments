@@ -41,46 +41,46 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDxNeXehPdWU035YQbxLejNlapZHeGEGes',
-    appId: '1:919039535186:web:38ac17e7916e3bcbd5d78b',
-    messagingSenderId: '919039535186',
-    projectId: 'device-streaming-feb63d11',
-    authDomain: 'device-streaming-feb63d11.firebaseapp.com',
-    storageBucket: 'device-streaming-feb63d11.firebasestorage.app',
+    apiKey: 'YOUR_API_KEY',
+    appId: 'YOUR_APP_ID',
+    messagingSenderId: 'YOUR_MESSAGING_SENDER_ID',
+    projectId: 'YOUR_PROJECT_ID',
+    authDomain: 'YOUR_PROJECT_ID.firebaseapp.com',
+    storageBucket: 'YOUR_PROJECT_ID.firebasestorage.app',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyC932jQYMZcweYU0Zu84eAM_rCjTE7OvJE',
-    appId: '1:919039535186:android:62685b54d6536407d5d78b',
-    messagingSenderId: '919039535186',
-    projectId: 'device-streaming-feb63d11',
-    storageBucket: 'device-streaming-feb63d11.firebasestorage.app',
+    apiKey: 'YOUR_API_KEY',
+    appId: 'YOUR_APP_ID',
+    messagingSenderId: 'YOUR_MESSAGING_SENDER_ID',
+    projectId: 'YOUR_PROJECT_ID',
+    storageBucket: 'YOUR_PROJECT_ID.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDsQg2W79enBkXY1agevGtDYi_fO_-DCAw',
-    appId: '1:919039535186:ios:5f7a640b8a6d3470d5d78b',
-    messagingSenderId: '919039535186',
-    projectId: 'device-streaming-feb63d11',
-    storageBucket: 'device-streaming-feb63d11.firebasestorage.app',
+    apiKey: 'YOUR_API_KEY',
+    appId: 'YOUR_APP_ID',
+    messagingSenderId: 'YOUR_MESSAGING_SENDER_ID',
+    projectId: 'YOUR_PROJECT_ID',
+    storageBucket: 'YOUR_PROJECT_ID.firebasestorage.app',
     iosBundleId: 'com.example.firebaseLogin',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDsQg2W79enBkXY1agevGtDYi_fO_-DCAw',
-    appId: '1:919039535186:ios:5f7a640b8a6d3470d5d78b',
-    messagingSenderId: '919039535186',
-    projectId: 'device-streaming-feb63d11',
-    storageBucket: 'device-streaming-feb63d11.firebasestorage.app',
+    apiKey: 'YOUR_API_KEY',
+    appId: 'YOUR_APP_ID',
+    messagingSenderId: 'YOUR_MESSAGING_SENDER_ID',
+    projectId: 'YOUR_PROJECT_ID',
+    storageBucket: 'YOUR_PROJECT_ID.firebasestorage.app',
     iosBundleId: 'com.example.firebaseLogin',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDxNeXehPdWU035YQbxLejNlapZHeGEGes',
-    appId: '1:919039535186:web:16e640cb7bec850ed5d78b',
-    messagingSenderId: '919039535186',
-    projectId: 'device-streaming-feb63d11',
-    authDomain: 'device-streaming-feb63d11.firebaseapp.com',
-    storageBucket: 'device-streaming-feb63d11.firebasestorage.app',
+    apiKey: 'YOUR_API_KEY',
+    appId: 'YOUR_APP_ID',
+    messagingSenderId: 'YOUR_MESSAGING_SENDER_ID',
+    projectId: 'YOUR_PROJECT_ID',
+    authDomain: 'YOUR_PROJECT_ID.firebaseapp.com',
+    storageBucket: 'YOUR_PROJECT_ID.firebasestorage.app',
   );
 }
