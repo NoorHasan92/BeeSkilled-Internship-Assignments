@@ -16,7 +16,7 @@ class ProductSeedService {
         'price': 4999,
         'category': 'Tech',
         'rating': 4.8,
-        'imageUrl': 'https://images.unsplash.com/photo-1505740420928-5e560c06d30e',
+        'imageUrl': 'https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&q=80',
         'featured': true,
       },
       {
@@ -26,7 +26,7 @@ class ProductSeedService {
         'price': 18999,
         'category': 'Tech',
         'rating': 4.7,
-        'imageUrl': 'https://images.unsplash.com/photo-1606220588913-b3aacb4d2f46',
+        'imageUrl': 'https://images.unsplash.com/photo-1606220588913-b3aacb4d2f46?w=400&q=80',
         'featured': false,
       },
       {
@@ -36,7 +36,7 @@ class ProductSeedService {
         'price': 3499,
         'category': 'Tech',
         'rating': 4.5,
-        'imageUrl': 'https://images.unsplash.com/photo-1543512214-318c7553f230',
+        'imageUrl': 'https://images.unsplash.com/photo-1543512214-318c7553f230?w=400&q=80',
         'featured': true,
       },
       {
@@ -46,7 +46,7 @@ class ProductSeedService {
         'price': 7999,
         'category': 'Tech',
         'rating': 4.9,
-        'imageUrl': 'https://images.unsplash.com/photo-1595225476474-87563907a212',
+        'imageUrl': 'https://images.unsplash.com/photo-1595225476474-87563907a212?w=400&q=80',
         'featured': false,
       },
 
@@ -58,7 +58,7 @@ class ProductSeedService {
         'price': 1999,
         'category': 'Fashion',
         'rating': 4.6,
-        'imageUrl': 'https://images.unsplash.com/photo-1556821840-3a63f95609a7',
+        'imageUrl': 'https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=400&q=80',
         'featured': true,
       },
       {
@@ -68,7 +68,7 @@ class ProductSeedService {
         'price': 2499,
         'category': 'Fashion',
         'rating': 4.4,
-        'imageUrl': 'https://images.unsplash.com/photo-1549298916-b41d501d3772',
+        'imageUrl': 'https://images.unsplash.com/photo-1549298916-b41d501d3772?w=400&q=80',
         'featured': false,
       },
       {
@@ -78,7 +78,7 @@ class ProductSeedService {
         'price': 3299,
         'category': 'Fashion',
         'rating': 4.7,
-        'imageUrl': 'https://images.unsplash.com/photo-1495105787522-5334e3ffa0ef',
+        'imageUrl': 'https://images.unsplash.com/photo-1495105787522-5334e3ffa0ef?w=400&q=80',
         'featured': true,
       },
       {
@@ -88,7 +88,7 @@ class ProductSeedService {
         'price': 4599,
         'category': 'Fashion',
         'rating': 4.8,
-        'imageUrl': 'https://images.unsplash.com/photo-1548036328-c9fa89d128fa',
+        'imageUrl': 'https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=400&q=80',
         'featured': false,
       },
 
@@ -100,7 +100,7 @@ class ProductSeedService {
         'price': 1499,
         'category': 'Home',
         'rating': 4.5,
-        'imageUrl': 'https://images.unsplash.com/photo-1507473885765-e6ed057f782c',
+        'imageUrl': 'https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=400&q=80',
         'featured': false,
       },
       {
@@ -110,7 +110,7 @@ class ProductSeedService {
         'price': 899,
         'category': 'Home',
         'rating': 4.3,
-        'imageUrl': 'https://images.unsplash.com/photo-1581783342308-f792dbdd27c5',
+        'imageUrl': 'https://images.unsplash.com/photo-1581783342308-f792dbdd27c5?w=400&q=80',
         'featured': false,
       },
       {
@@ -120,7 +120,7 @@ class ProductSeedService {
         'price': 599,
         'category': 'Home',
         'rating': 4.2,
-        'imageUrl': 'https://images.unsplash.com/photo-1574041103099-0091ff73e6a4',
+        'imageUrl': 'https://images.unsplash.com/photo-1574041103099-0091ff73e6a4?w=400&q=80',
         'featured': false,
       },
       {
@@ -130,7 +130,7 @@ class ProductSeedService {
         'price': 1299,
         'category': 'Home',
         'rating': 4.6,
-        'imageUrl': 'https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c',
+        'imageUrl': 'https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?w=400&q=80',
         'featured': true,
       },
 
@@ -142,7 +142,7 @@ class ProductSeedService {
         'price': 5999,
         'category': 'Lifestyle',
         'rating': 4.7,
-        'imageUrl': 'https://images.unsplash.com/photo-1523275335684-37898b6baf30',
+        'imageUrl': 'https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400&q=80',
         'featured': true,
       },
       {
@@ -152,7 +152,7 @@ class ProductSeedService {
         'price': 999,
         'category': 'Lifestyle',
         'rating': 4.8,
-        'imageUrl': 'https://images.unsplash.com/photo-1602143407151-7111542de6e8',
+        'imageUrl': 'https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=400&q=80',
         'featured': false,
       },
       {
@@ -162,7 +162,7 @@ class ProductSeedService {
         'price': 1199,
         'category': 'Lifestyle',
         'rating': 4.4,
-        'imageUrl': 'https://images.unsplash.com/photo-1553062407-98eeb64c6a62',
+        'imageUrl': 'https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400&q=80',
         'featured': false,
       },
     ];
